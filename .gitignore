@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /node_modules
 /public/hot
 /public/storage
@@ -10,3 +11,28 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+=======
+.DS_Store
+node_modules
+/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+>>>>>>> af475eca98fc55d6fd5d4549cd37d4ed8b9057ab
